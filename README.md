@@ -15,7 +15,7 @@
 
 - Usando cualquier manejador de base de datos para crear una base de datos.
 
-## 3. Editar archivo .env y agregar los datos de la BBDD creada en el paso anterior
+## 3. Copia el archivo .env.example y renombrar la copia sin el .example, modificar los datos de la seccion de base de datos
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
