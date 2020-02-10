@@ -31,10 +31,14 @@
 ## 5. Creando las migraciones
 `php artisan migrate`
 
-## 6. Comando para ejecutar la web
+## 6. Generar el Key de la app
+`php artisan key:generate`
+
+## 7. Comando para ejecutar la web
 `npm run dev`
 
-## 7. visualización en el navegador del sitio
+
+## 8. visualización en el navegador del sitio
 `php artisan serve`
 este comando mostrará un mensaje como el siguiente: 
 > Laravel development server started: http://127.0.0.1:8000
